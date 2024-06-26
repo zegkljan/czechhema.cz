@@ -1,0 +1,71 @@
+---
+title:  "Nultý ročník WSM v Brně - S&B, LS (1. kolo)"
+date:   2024-06-09
+last_modified_at: now
+tags:
+  - turnaj
+  - Brno
+  - dlouhý meč
+  - meč a štítek
+  - liga
+header:
+  teaser: https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/445186060_122107133096319761_7489924575528875242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=usDojrIij3MQ7kNvgFYW2FH&_nc_ht=scontent.fbrq1-1.fna&oh=00_AYCPbJmeW0pCUiVFzXPxFF80jFQRrR-3eiA-BnvDi3qmZg&oe=66820199
+author_profile: true
+author:
+  name: "Základní údaje"
+  bio: ""
+  location : "Brno"
+  links:
+    - label: "Událost"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/events/430176969955148"
+sidebar:
+  - text: |
+      Zbraně:
+        * dlouhý meč
+        * meč a štítek
+      
+      Kategorie:
+        * open
+---
+Šermíři a šermířky, hemisté a hemačky!
+Warriors Shelter vyhlašuje nultý ročník Warriors Shelter Meetup, který se bude (ne)pravidelně konat v Brně!
+
+## O co jde?
+Pětkrát za "sezónu" se v předem určenou neděli sejdeme v Brně na naší hale a zašermujeme si, vždy ve dvou kategoriích.
+Jedna z nich (dopolední) bude zahrnovat nějakou jednoruční zbraň, druhá (odpolední) pak vždy dlouhý meč.
+
+## Kdy že to bude a co se bude šermovat?
+
+* 9.6. - meč a štítek / dlouhý meč
+* 28.7. - single rapír / dlouhý meč
+* 11.8. - šavle / dlouhý meč
+* 1.9. - kordík / dlouhý meč
+* 29.9. - rapír a dýka / dlouhý meč
+
+## Kdo se může zúčastnit?
+Kdokoli, kdo se včas zaregistruje a přihlásí -- jedná se o zcela otevřenou ligu.
+Registrace na první termín otevřeme již brzy!
+
+## Musím se zúčastnit všech pěti kol WSM?
+Ne!
+Přijeď, jakkoli se Ti bude chtít a na tolik kol, na kolik Ti to vyjde.
+Každé kolo budeme otevírat samostatně; jen na konci sezóny pak vyhodnotíme nejlepší (WSM) šermíře s jednoručkami a s dlouhým mečem.
+
+## Jaká budou pravidla?
+Tak ta upřesníme v dohledné době, ale nemusíš se bát žádných divokých experimentů.
+Úplná (česká) klasika to ale také nebude.
+
+## Jak budou jednotlivé turnaje probíhat?
+I v tomto případě vše upřesníme v dohledné době, takže zatím jen v kostce:
+Minimum účastníků bude 4, maximum 24 (cca).
+Pokud bude dost přihlášených, budou šermíři rozdělení do divizí podle své výkonnosti (a s přihlédnutím k jejich výkonům v předchozích kolech WSM).
+A protože je to meetup a ne klasický turnaj, tak každý účastník odšermuje vždy předem daný počet duelů, který bude zcela nezávislý, jak na konkrétním množství šermířů, tak i na jeho výhrách a prohrách.
+Cílem je si pořádně zašermovat a o to nám jde v první řadě!
+
+## Půjdou výsledky na HEMA Ratings / do českého žebříčku?
+Bude-li na tom kole dost lidí (alespoň 8) z dost různých klubů (alespoň 3) - a zároveň nejméně 4 účastníci nebudou patřit mezi Brněnské Fechtery - pak ano.
+Při nesplnění těchto podmínek se bude výsledek počítat pouze do WSM, ale nebudeme ho posílat nikam dál.
+
+V příštích dnech vypíšeme pravidla a otevřeme registrace na první kolo!
+Na viděnou v Brně!⚔️ 

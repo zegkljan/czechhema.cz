@@ -1,0 +1,34 @@
+---
+title:  "Nultý ročník WSM v Brně - kordík, LS (4. kolo)"
+date:   2024-08-11
+last_modified_at: now
+tags:
+  - turnaj
+  - Brno
+  - dlouhý meč
+  - kordík
+  - liga
+header:
+  teaser: https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/445186060_122107133096319761_7489924575528875242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=usDojrIij3MQ7kNvgFYW2FH&_nc_ht=scontent.fbrq1-1.fna&oh=00_AYCPbJmeW0pCUiVFzXPxFF80jFQRrR-3eiA-BnvDi3qmZg&oe=66820199
+author_profile: true
+author:
+  name: "Základní údaje"
+  bio: ""
+  location : "Brno"
+  links:
+    - label: "Událost"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/events/868676055087991"
+sidebar:
+  - text: |
+      Zbraně:
+        * dlouhý meč
+        * kordík
+      
+      Kategorie:
+        * open
+---
+4\. kolo brněnského Warriors Shelter Meetup.
+Tentokrát se dopoledne porveme s kordíkem a odpoledne s dlouhým mečem.
+
+Detaily o WSM viz [první kolo](/turnaje/minule/wsm-2024-1).
