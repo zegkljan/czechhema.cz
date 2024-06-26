@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.club {
+    .author__avatar img {
+        max-width: 100%;
+        width: auto;
+        border-radius: 0%;
+        border: none;
+    }
+
+    .author__urls-wrapper .author__urls.social-icons li[itemprop='homeLocation'] {
+        display: flex;
+        flex-direction: row;
+
+        i {
+            position: relative;
+            top: 2.5px
+        }
+
+        .p-locality {
+            padding-left: 5px;
+        }
+    }
+}
+
+i.icon-hemaratings {
+    display: inline-block;
+    width: 1.25em;
+
+    &::before {
+        display: inline-block;
+        content: '';
+        width: 16px;
+        height: 16px;
+        background-image: url('https://hemaratings.com/content/icons/favicon-16x16.png');
+    }
+}

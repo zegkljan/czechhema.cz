@@ -1,0 +1,221 @@
+# clubs
+aka:
+  name       : "A.K.A."
+  avatar     : "/assets/images/club-logos/aka.png"
+  bio        : "Akademie rytířských umění<br/>Academy of Kinght's Arts"
+  location   : "Praha<br/>České Budějovice<br/>Český Krumlov"
+  home       : &home "https://www.skolasermu.cz/"
+  facebook   : skolasermu
+  youtube    : https://www.youtube.com/user/agenturaARGO
+  hemaratings: 1611 
+  links:
+    - label: "skolasermu.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+digladior:
+  name       : "Digladior"
+  avatar     : "/assets/images/club-logos/digladior.jpg"
+  bio        : ""
+  location   : "Praha<br/>Plzeň"
+  home       : &home "https://digladior.cz"
+  facebook   : Digladior
+  instagram  : digladior_cz
+  youtube    : "@digladior-cz"
+  tiktok     : "@digladior"
+  hemaratings: 285
+  links:
+    - label: "digladior.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+dobrovolny-serm:
+  name       : "Dobrovolný Šerm"
+  avatar     : "/assets/images/club-logos/dobrovolny-serm.png"
+  bio        : "Skupina historického šermu zaměřující se primárně na šerm s dlouhým mečem."
+  location   : "Brno"
+  home       : &home "https://www.facebook.com/DobrovolnySerm"
+  facebook   : DobrovolnySerm
+  instagram  : Dobrovolnyserm
+  youtube    : "@dobrovolnyserm4801"
+  hemaratings: 393
+duelanti:
+  name       : "Duelanti od svatého Rocha"
+  avatar     : "/assets/images/club-logos/duelanti.svg"
+  bio        : "Skupina historického šermu zaměřená na období velmi ranné italské renesance (1350-1400)."
+  location   : "Praha"
+  home       : &home "https://www.facebook.com/duelanti"
+  facebook   : duelanti
+  hemaratings: 983
+fechteri:
+  name       : "Brněnští Fechteři"
+  avatar     : "/assets/images/club-logos/fechteri.png"
+  bio        : "Klub historických bojových umění"
+  location   : "Brno"
+  home       : &home "https://fechteri.cz/"
+  facebook   : HEMABrno
+  instagram  : brnensti_fechteri
+  hemaratings: 786
+  links:
+    - label: "fechteri.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+helops:
+  name       : "HELOPS"
+  avatar     : "/assets/images/club-logos/helops.png"
+  bio        : "HEMA / historický šerm v TJ Sokol Přepeře u Turnova a Kosmonosech u Mladé Boleslavi."
+  location   : "Přepeře<br/>Kosmonosy"
+  home       : &home "https://helops.webnode.cz"
+  facebook   : sermprepere
+  instagram  : helops_fencing
+  youtube    : "@helops2430"
+  hemaratings: 1171
+  links:
+    - label: "helops.webnode.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+hema-praha:
+  name       : "HEMA Praha"
+  avatar     : "/assets/images/club-logos/hema-praha.svg"
+  bio        : "International club focused on HEMA (historical European martial arts) based in the city of Prague."
+  location   : "Praha"
+  home       : &home "https://hema-praha.cz"
+  facebook   : hemapraha
+  instagram  : hema_praha
+  youtube    : "@HEMAPraha"
+  hemaratings: 1357
+  links:
+    - label: "hema-praha.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+krkavci:
+  name       : "SHŠ Krkavci"
+  avatar     : "/assets/images/club-logos/krkavci.svg"
+  bio        : "Spolek historického šermu Krkavci"
+  location   : "Praha"
+  home       : &home "https://krkavci.cz"
+  facebook   : krkavci
+  instagram  : shs_krkavci
+  youtube    : "@shskrkavci"
+  hemaratings: 362
+  links:
+    - label: "krkavci.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+manus-regis:
+  avatar     : "/assets/images/club-logos/manus-regis.png"
+  name       : *title
+  bio        : "Šerm jako bojové umění cvičí a učí ovládat celé tělo, je sportem a uměním těla i ducha"
+  location   : "Praha"
+  home       : &home "https://www.manusregis.cz/"
+  facebook   : manus.regis
+  instagram  : manusregis
+  youtube    : "https://www.youtube.com/channel/UCDu7WynNSeH95_KpVCvy9qQ"
+  hemaratings: 1417
+  links:
+    - label: "manusregis.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+non-sancti:
+  name       : "Non Sancti"
+  avatar     : "/assets/images/club-logos/non-sancti.jpg"
+  bio        : "Šermířský spolek z Olomouce, věnující se evropskému historickému šermu, fireshow, rekonstrukci starých řemesel a dobovému životu v 15.století."
+  location   : "Olomouc"
+  home       : &home "http://www.nonsancti.cz"
+  facebook   : Nonsancti
+  hemaratings: 1544
+  links:
+    - label: "nonsancti.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+paridon:
+  name       : "Škola šermu Paridon"
+  avatar     : "/assets/images/club-logos/paridon.jpg"
+  bio        : ""
+  location   : "Praha<br/>Jihlava<br/>Třebíč<br/>Havířov<br/>České Budějovice<br/>Jindřichův Hradec<br/>Telč<br/>Plzeň<br/>Polná<br/>Bratislava<br/>Trenčín"
+  home       : &home "http://skolasermu.paridon.cz/"
+  facebook   : "profile.php?id=100047210713266"
+  hemaratings: 290
+  links:
+    - label: "skolasermu.paridon.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+posledni-argument:
+  name       : "Poslední Argument"
+  avatar     : "/assets/images/club-logos/posledni-argument.svg"
+  bio        : ""
+  location   : "Praha"
+  home       : &home "https://www.posledniargument.com"
+  facebook   : posledni.argument
+  instagram  : posledniargument
+  youtube    : "https://www.youtube.com/c/Posledn%C3%ADArgument"
+  hemaratings: 1125
+  links:
+    - label: "posledniargument.com"
+      icon: "fas fa-fw fa-link"
+      url: *home
+psa:
+  name       : "Pardubický spolek šermířský"
+  avatar     : "/assets/images/club-logos/psa.svg"
+  bio        : "Pardubice Swordplay Association - PSA"
+  location   : "Pardubice"
+  home       : &home "https://www.sermirna.cz"
+  facebook   : PSASERM
+  instagram  : psa_hema_cz
+  youtube    : "@pardubiceswordplayassociat2120"
+  tiktok     : "@fun_with_swords"
+  hemaratings: 288
+  links:
+    - label: "sermirna.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+rotyka:
+  name       : "Rotyka"
+  avatar     : "/assets/images/club-logos/rotyka.png"
+  bio        : ""
+  location   : "Praha"
+  home       : &home "http://rotyka.wz.cz"
+  facebook   : profile.php?id=100077304431141
+  hemaratings: 790
+  links:
+    - label: "rotyka.wz.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+rsk:
+  name       : "Rožnovský šermířský klub"
+  avatar     : #"/assets/images/club-logos/digladior.jpg"
+  bio        : ""
+  location   : "Rožnov pod Radhoštěm"
+  home       : &home "http://rsk.nordsson.cz"
+  facebook   : groups/1580615972113724
+  hemaratings: 655
+  links:
+    - label: "rsk.nordsson.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+serm-tabor:
+  name       : "Sportovní šerm Tábor"
+  avatar     : "/assets/images/club-logos/serm-tabor.png"
+  bio        : ""
+  location   : "Tábor"
+  home       : &home "https://sermtabor.cz"
+  facebook   : SermTabor
+  instagram  : hema.tabor
+  hemaratings: 1157
+  links:
+    - label: "sermtabor.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+sermirna-luka:
+  name     : "Šermírna Luka"
+  avatar   : #"/assets/images/club-logos/digladior.jpg"
+  bio      : ""
+  location : "Luka nad Jihlavou"
+  home     : &home "/kluby/sermirna-luka"
+  hemaratings: 1115
+sokol-budejovice:
+  name       : "T.J. Sokol České Budějovice"
+  avatar     : "/assets/images/club-logos/sokol-budejovice.jpg"
+  bio        : ""
+  location   : "České Budějovice"
+  home       : &home "/kluby/sokol-budejovice"
+  facebook   : sermcb
+  hemaratings: 446

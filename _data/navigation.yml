@@ -1,0 +1,14 @@
+main:
+  - title: Kluby
+    url: /kluby
+  - title: Turnaje
+    url: /turnaje/budouci
+  - title: 'Žebříček <i class="fa-solid fa-arrow-up-right-from-square"></i>'
+    url: https://zebricek.czechhema.cz
+tournaments:
+  - title: Turnaje
+    children:
+      - title: Budoucí
+        url: /turnaje/budouci
+      - title: Minulé
+        url: /turnaje/minule

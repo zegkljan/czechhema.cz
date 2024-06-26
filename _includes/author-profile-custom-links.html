@@ -1,0 +1,15 @@
+{% if author.tiktok %}
+  <li>
+    <a href="https://tiktok.com//{{ author.tiktok }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-tiktok" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].tiktok_label | default: "TikTok" }}</span>
+    </a>
+  </li>
+{% endif %}
+
+{% if author.hemaratings %}
+  <li>
+    <a href="https://hemaratings.com/clubs/details/{{ author.hemaratings }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="icon-hemaratings" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].hemaratings_label | default: "HEMA Ratings" }}</span>
+    </a>
+  </li>
+{% endif %}
