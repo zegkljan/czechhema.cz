@@ -201,7 +201,7 @@ sermirna-luka:
 shs-krkavci:
   name       : "SHŠ Krkavci"
   avatar     : "/assets/images/club-logos/krkavci.svg"
-  bio        : "Spolek historického šermu Krkavci"
+  bio        : "Věnujeme se bojovému šermu dlouhým mečem a rekonstrukci husitské jednotky."
   location   : "Praha"
   home       : &home "https://krkavci.cz"
   email      : velitel@krkavci.cz

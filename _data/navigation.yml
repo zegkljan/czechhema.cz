@@ -1,4 +1,6 @@
 main:
+  - title: Co je HEMA?
+    url: /hema
   - title: Kluby
     url: /kluby
   - title: Turnaje
