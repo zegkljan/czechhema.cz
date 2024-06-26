@@ -27,15 +27,20 @@ sidebar:
         * open
 ---
 
-SHŠ Krkavci vás zve na první týmový turnaj v dlouhém meči v ČR!
+PSA vás zve na přátelský turnaj v soubojové šavli:
+Dragoon Sabre Pardubice
 
-V turnaji se utkají týmy o 3-4 členech.
-V první fázi turnaje se členové týmů utkají ve skupinách, podobně jako na klasických turnajích.
-Na základě výsledků skupin se sestaví týmový eliminační pavouk, ve kterém již budou soupeřit celé týmy, a to ve štafetovém formátu podobném tomu, který se používá ve sportovním šermu.
+Pravidla: s právem útoku  
+Šavle: 730 g - 830 g  
+Datum: 21. 9. 2024  
+Místo: Sokolovna Pardubičky, Bokova 364, Pardubice  
+Kontakt: +420 774 132 511  
+E-mail: psaserm@gmail.com  
+Systém turnaje: skupiny po 5-7; 80-100% postupuje do eliminace  
+Startovné: 33 € (800,- Kč)
 
-Turnaj proběhne ve velké sportovní hale **TJ Pankrác v Praze 12.10.2024**.
-Další informace zveřejníme později.
+Účastníci turnaje jsou povinni pomoci jako postranní rozhodčí.
 
-Sledujte také Facebookovou událost k turnaji: [All For One - One For All 2024 - team HEMA tournament](https://www.facebook.com/events/1514311122487420).
+Registrace: bude oznámena (max 42 účastníků)
 
-V případě dotazů nás neváhejte kontaktovat na e-mailu [turnaj@krkavci.cz](mailto:turnaj@krkavci.cz) či na našem Facebooku: [SHŠ Krkavci, žoldnéřská kompanie](https://www.facebook.com/krkavci).
+Poznámka: Každý účastník startuje na vlastní nebezpečí dle její(ho) zdravotního stavu.
