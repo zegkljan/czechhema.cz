@@ -3,8 +3,12 @@ title:  &title "SHŠ Krkavci"
 tags:
   - klub
   - Praha
-author: krkavci
+author: shs-krkavci
 ---
-Jsme pražská skupina historického šermu Krkavci. Naším cílem je rekonstruovat husitskou žoldnéřskou kompanii z počátku patnáctého století (1420-1440). Velký důraz věnujeme bojovým dovednostem středověkého žoldnéře, ale nezapomínáme ani na tábornictví, formační boj a taktické postupy. A byť žoldnéře živí boj, jejich život je pestřejší a naším cílem je proto zobrazit i jejich běžný život, práci a zábavu. Současně se také chceme naučit středověkému umění boje dlouhým mečem i v jeho soubojové podobě.
+Jsme pražská skupina historického šermu trénující převážně v&nbsp;Dejvicích.
+Skupina funguje od&nbsp;roku 2002 a věnuje se dvěma hlavním oblastem - tréninku bojového šermu dlouhým mečem a rekonstrukci husitské bojové družiny.
 
-Skupina byla založena léta Páně 2002 a jejím prvním velitelem, dosud s úctou vzpomínaným, byl Vladimír Kňažko, druhým, třetím a čtvrtým, neméně úspěšným velitelem byli Vladimír Nerandžič, Zbyněk Trajer a Mikoláš Havel. Současným velitelem je Karel Murgaš. Kontaktovat jej můžete na e-mailu [velitel@krkavci.cz](mailto:velitel@krkavci.cz).
+Náš šermířský výcvik probíhá dle osnov školy Digladioru, částečně v&nbsp;laskavé péči Jana "Axíka" Aksmana (dříve i Honzy Šimka) a částečně v&nbsp;naší vlastní režiji.
+Jezdíme na turnaje jak v&nbsp;Česku tak na&nbsp;Slovensku a občasně i&nbsp;do&nbsp;dalších zemí.
+Pořádáme vlastní turnaje (Krkavčí fechtík) a spolupořádali jsme Mistrovství republiky 2023.
+Složení máme pestré, od&nbsp;začátečníků až po&nbsp;medailisty.

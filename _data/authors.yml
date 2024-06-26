@@ -30,7 +30,7 @@ digladior:
 dobrovolny-serm:
   name       : "Dobrovolný Šerm"
   avatar     : "/assets/images/club-logos/dobrovolny-serm.png"
-  bio        : "Skupina historického šermu zaměřující se primárně na šerm s dlouhým mečem."
+  bio        : "Skupina historického šermu zaměřující se primárně na&nbsp;šerm s&nbsp;dlouhým mečem."
   location   : "Brno"
   home       : &home "https://www.facebook.com/DobrovolnySerm"
   facebook   : DobrovolnySerm
@@ -40,7 +40,7 @@ dobrovolny-serm:
 duelanti:
   name       : "Duelanti od svatého Rocha"
   avatar     : "/assets/images/club-logos/duelanti.svg"
-  bio        : "Skupina historického šermu zaměřená na období velmi ranné italské renesance (1350-1400)."
+  bio        : "Skupina historického šermu zaměřená na&nbsp;období velmi ranné italské renesance (1350-1400)."
   location   : "Praha"
   home       : &home "https://www.facebook.com/duelanti"
   facebook   : duelanti
@@ -61,7 +61,7 @@ fechteri:
 helops:
   name       : "HELOPS"
   avatar     : "/assets/images/club-logos/helops.png"
-  bio        : "HEMA / historický šerm v TJ Sokol Přepeře u Turnova a Kosmonosech u Mladé Boleslavi."
+  bio        : "HEMA / historický šerm v&nbsp;TJ Sokol Přepeře u&nbsp;Turnova a Kosmonosech u&nbsp;Mladé Boleslavi."
   location   : "Přepeře<br/>Kosmonosy"
   home       : &home "https://helops.webnode.cz"
   facebook   : sermprepere
@@ -75,7 +75,7 @@ helops:
 hema-praha:
   name       : "HEMA Praha"
   avatar     : "/assets/images/club-logos/hema-praha.svg"
-  bio        : "International club focused on HEMA (historical European martial arts) based in the city of Prague."
+  bio        : "International club focused on&nbsp;HEMA (historical European martial arts) based in&nbsp;the city of&nbsp;Prague."
   location   : "Praha"
   home       : &home "https://hema-praha.cz"
   facebook   : hemapraha
@@ -86,24 +86,10 @@ hema-praha:
     - label: "hema-praha.cz"
       icon: "fas fa-fw fa-link"
       url: *home
-krkavci:
-  name       : "SHŠ Krkavci"
-  avatar     : "/assets/images/club-logos/krkavci.svg"
-  bio        : "Spolek historického šermu Krkavci"
-  location   : "Praha"
-  home       : &home "https://krkavci.cz"
-  facebook   : krkavci
-  instagram  : shs_krkavci
-  youtube    : "@shskrkavci"
-  hemaratings: 362
-  links:
-    - label: "krkavci.cz"
-      icon: "fas fa-fw fa-link"
-      url: *home
 manus-regis:
+  name       : "Manus Regis"
   avatar     : "/assets/images/club-logos/manus-regis.png"
-  name       : *title
-  bio        : "Šerm jako bojové umění cvičí a učí ovládat celé tělo, je sportem a uměním těla i ducha"
+  bio        : "Šerm jako bojové umění cvičí a učí ovládat celé tělo, je sportem a uměním těla i&nbsp;ducha."
   location   : "Praha"
   home       : &home "https://www.manusregis.cz/"
   facebook   : manus.regis
@@ -117,7 +103,7 @@ manus-regis:
 non-sancti:
   name       : "Non Sancti"
   avatar     : "/assets/images/club-logos/non-sancti.jpg"
-  bio        : "Šermířský spolek z Olomouce, věnující se evropskému historickému šermu, fireshow, rekonstrukci starých řemesel a dobovému životu v 15.století."
+  bio        : "Šermířský spolek z&nbsp;Olomouce, věnující se evropskému historickému šermu, fireshow, rekonstrukci starých řemesel a dobovému životu v&nbsp;15. století."
   location   : "Olomouc"
   home       : &home "http://www.nonsancti.cz"
   facebook   : Nonsancti
@@ -153,7 +139,7 @@ posledni-argument:
       icon: "fas fa-fw fa-link"
       url: *home
 psa:
-  name       : "Pardubický spolek šermířský"
+  name       : "Pardubický spolek šermířský (PSA)"
   avatar     : "/assets/images/club-logos/psa.svg"
   bio        : "Pardubice Swordplay Association - PSA"
   location   : "Pardubice"
@@ -167,6 +153,20 @@ psa:
     - label: "sermirna.cz"
       icon: "fas fa-fw fa-link"
       url: *home
+rapir-klub-praha:
+  name       : "Rapír klub Praha (RKP)"
+  avatar     : "/assets/images/club-logos/rapir-klub-praha.svg"
+  bio        : "Náš klub se zabývá tréninkem šermu rapírem, především dle španělské tradice La&nbsp;Verdadera Destreza."
+  location   : "Praha"
+  #home       : &home "http://rapirpraha.cz"
+  home       : &home "/kluby/rapir-klub-praha"
+  facebook   : rapirklubPraha
+  instagram  : rapierclubprague
+  hemaratings: 1273
+  #links:
+  #  - label: "rapirpraha.cz"
+  #    icon: "fas fa-fw fa-link"
+  #    url: *home
 rotyka:
   name       : "Rotyka"
   avatar     : "/assets/images/club-logos/rotyka.png"
@@ -180,7 +180,7 @@ rotyka:
       icon: "fas fa-fw fa-link"
       url: *home
 rsk:
-  name       : "Rožnovský šermířský klub"
+  name       : "Rožnovský šermířský klub (RŠK)"
   avatar     : #"/assets/images/club-logos/digladior.jpg"
   bio        : ""
   location   : "Rožnov pod Radhoštěm"
@@ -191,7 +191,29 @@ rsk:
     - label: "rsk.nordsson.cz"
       icon: "fas fa-fw fa-link"
       url: *home
-serm-tabor:
+sermirna-luka:
+  name     : "Šermírna Luka"
+  avatar   : #"/assets/images/club-logos/digladior.jpg"
+  bio      : ""
+  location : "Luka nad Jihlavou"
+  home     : &home "/kluby/sermirna-luka"
+  hemaratings: 1115
+shs-krkavci:
+  name       : "SHŠ Krkavci"
+  avatar     : "/assets/images/club-logos/krkavci.svg"
+  bio        : "Spolek historického šermu Krkavci"
+  location   : "Praha"
+  home       : &home "https://krkavci.cz"
+  email      : velitel@krkavci.cz
+  facebook   : krkavci
+  instagram  : shs_krkavci
+  youtube    : "@shskrkavci"
+  hemaratings: 362
+  links:
+    - label: "krkavci.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
+sportovni-serm-tabor:
   name       : "Sportovní šerm Tábor"
   avatar     : "/assets/images/club-logos/serm-tabor.png"
   bio        : ""
@@ -204,14 +226,7 @@ serm-tabor:
     - label: "sermtabor.cz"
       icon: "fas fa-fw fa-link"
       url: *home
-sermirna-luka:
-  name     : "Šermírna Luka"
-  avatar   : #"/assets/images/club-logos/digladior.jpg"
-  bio      : ""
-  location : "Luka nad Jihlavou"
-  home     : &home "/kluby/sermirna-luka"
-  hemaratings: 1115
-sokol-budejovice:
+tj-sokol-budejovice:
   name       : "T.J. Sokol České Budějovice"
   avatar     : "/assets/images/club-logos/sokol-budejovice.jpg"
   bio        : ""

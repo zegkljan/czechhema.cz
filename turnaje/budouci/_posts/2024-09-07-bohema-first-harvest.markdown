@@ -31,29 +31,29 @@ sidebar:
         * open
 ---
 
-In cooperation with HVN (Netherlands) and EHMS (Finland), we are excited to invite you to our first international beginner-and-basic level longsword tournament - BOHEMA*: First Harvest.
+In&nbsp;cooperation with HVN (Netherlands) and EHMS (Finland), we&nbsp;are&nbsp;excited to&nbsp;invite you to&nbsp;our first international beginner-and-basic level longsword tournament - BOHEMA*: First Harvest.
 
-On September 7 and 8, in the city of Prague, Czech Republic.
+On&nbsp;September 7 and 8, in&nbsp;the city of&nbsp;Prague, Czech Republic.
 
-Our clubs plan this event to create an entry-level friendly environment where students from all over Europe can meet their peers in a big, exciting event and fight, fight, fight! We have NO CAP on the number of participants.
+Our clubs plan this event to&nbsp;create an entry-level friendly environment where students from all over Europe can meet their peers in&nbsp;a&nbsp;big, exciting event and fight, fight, fight! We have NO CAP on&nbsp;the number of&nbsp;participants.
 
-But who are the beginners and regulars? It is up to the instructors to decide. We can tell you who are not: people who have won medals in beginner, open, or advanced competitions. We will have open and advanced events later for you.
+But who are the beginners and regulars? It is up&nbsp;to&nbsp;the instructors to&nbsp;decide. We can tell you who are not: people who have won medals in&nbsp;beginner, open, or&nbsp;advanced competitions. We will have open and advanced events later for you.
 
-What about women, is the tournament mixed? Yes, it is. And there are no beginner restrictions for women fencers. Please, come and fight as much as you want. We need more of you in HEMA.
+What about women, is the tournament mixed? Yes, it is. And there are no beginner restrictions for women fencers. Please, come and fight as&nbsp;much as&nbsp;you want. We need more of&nbsp;you in&nbsp;HEMA.
 
-On Saturday - The Tournament.  
-Large pools of 7 fencers, everyone goes to eliminations, final pools, and unlimited sparrings on both days of the event. You will probably have some of the best judging possible with all instructors judging the fights.
+On&nbsp;Saturday - The Tournament.  
+Large pools of&nbsp;7 fencers, everyone goes to&nbsp;eliminations, final pools, and unlimited sparrings on&nbsp;both days of&nbsp;the event. You will probably have some of&nbsp;the best judging possible with all instructors judging the fights.
 
-On Sunday - Sparring Games.  
-Spar as long and as much as you can with instructors and other students. Participate in different sparring games until you faint from exhaustion, including epic King of the Boars event!
+On&nbsp;Sunday - Sparring Games.  
+Spar as&nbsp;long and as&nbsp;much as&nbsp;you can with instructors and other students. Participate in&nbsp;different sparring games until you faint from exhaustion, including epic King of&nbsp;the Boars event!
 
 Epic Location:  
-We have booked the modern, stellar, slick, and comfortable Repy Arena for the event. A cafe with fresh meals and a hotel with a sauna and swimming pools will be at your service. If you get a hotel room there, the tournament hall will be just a 1-minute lazy walk from your bed. And yes, we'll have pool party with sauna after the event 😉
+We have booked the modern, stellar, slick, and comfortable Repy Arena for&nbsp;the event. A&nbsp;cafe with fresh meals and a&nbsp;hotel with a&nbsp;sauna and swimming pools will be at&nbsp;your service. If you get a&nbsp;hotel room there, the tournament hall will be just a&nbsp;1-minute lazy walk from your bed. And yes, we'll have pool party with sauna after the event 😉
 
 Arena and hotel: <https://sc-repy.cz>
 
 Help with equipment:  
-If, as sometimes happens with beginners, you lack any equipment, we will provide it.
+If, as&nbsp;sometimes happens with beginners, you lack any equipment, we will provide it.
 
 
 All swords will be provided by Kvetun Armoury.
@@ -62,13 +62,13 @@ Rules: <https://docs.google.com/document/d/1JfDY9TzTJuMl3KX4Nvxi9UUhRdp2rwluQBJ0
 
 Entry fee:  
 Saturday Beginner Tournament: 50 EUR
-Sunday Sparring Games: 20 EUR (all levels of fencer can apply)
+Sunday Sparring Games: 20 EUR (all levels of&nbsp;fencer can apply)
 
-Registration is open via HEMAGON until August 7th. Refunds are possible up to the end of the registration period.
+Registration is open via HEMAGON until August 7th. Refunds are possible up&nbsp;to&nbsp;the end of&nbsp;the registration period.
 
-To register: <https://hemagon.com/tournament/bohema1>
+To&nbsp;register: <https://hemagon.com/tournament/bohema1>
 
-Looking forward to meeting you at BOHEMA*: First Harvest!
+Looking forward to&nbsp;meeting you at BOHEMA*: First Harvest!
 
 *BOHEMA stands for Brutally Oppressive Historical European Martial Arts. 😉
-Registration period: 29 May 2024 – 7 August 2024
+Registration period: 29&nbsp;May&nbsp;2024 – 7&nbsp;August&nbsp;2024

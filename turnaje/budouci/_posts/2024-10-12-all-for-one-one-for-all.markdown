@@ -31,15 +31,15 @@ sidebar:
         * open týmy
 ---
 
-SHŠ Krkavci vás zve na první týmový turnaj v dlouhém meči v ČR!
+SHŠ Krkavci vás zve na&nbsp;první týmový turnaj v&nbsp;dlouhém meči v&nbsp;ČR!
 
-V turnaji se utkají týmy o 3-4 členech.
-V první fázi turnaje se členové týmů utkají ve skupinách, podobně jako na klasických turnajích.
-Na základě výsledků skupin se sestaví týmový eliminační pavouk, ve kterém již budou soupeřit celé týmy, a to ve štafetovém formátu podobném tomu, který se používá ve sportovním šermu.
+V&nbsp;turnaji se utkají týmy o&nbsp;3-4 členech.
+V&nbsp;první fázi turnaje se členové týmů utkají ve&nbsp;skupinách, podobně jako na&nbsp;klasických turnajích.
+Na&nbsp;základě výsledků skupin se sestaví týmový eliminační pavouk, ve&nbsp;kterém již budou soupeřit celé týmy, a to ve&nbsp;štafetovém formátu podobném tomu, který se používá ve&nbsp;sportovním šermu.
 
-Turnaj proběhne ve velké sportovní hale **TJ Pankrác v Praze 12.10.2024**.
+Turnaj proběhne ve&nbsp;velké sportovní hale **TJ Pankrác v Praze 12.10.2024**.
 Další informace zveřejníme později.
 
-Sledujte také Facebookovou událost k turnaji: [All For One - One For All 2024 - team HEMA tournament](https://www.facebook.com/events/1514311122487420).
+Sledujte také Facebookovou událost k&nbsp;turnaji: [All For One - One For All 2024 - team HEMA tournament](https://www.facebook.com/events/1514311122487420).
 
-V případě dotazů nás neváhejte kontaktovat na e-mailu [turnaj@krkavci.cz](mailto:turnaj@krkavci.cz) či na našem Facebooku: [SHŠ Krkavci, žoldnéřská kompanie](https://www.facebook.com/krkavci).
+V&nbsp;případě dotazů nás neváhejte kontaktovat na&nbsp;e-mailu [turnaj@krkavci.cz](mailto:turnaj@krkavci.cz) či na&nbsp;našem Facebooku: [SHŠ Krkavci, žoldnéřská kompanie](https://www.facebook.com/krkavci).

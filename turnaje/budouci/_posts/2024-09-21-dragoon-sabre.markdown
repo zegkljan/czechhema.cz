@@ -27,20 +27,20 @@ sidebar:
         * open
 ---
 
-PSA vás zve na přátelský turnaj v soubojové šavli:
+PSA vás zve na&nbsp;přátelský turnaj v&nbsp;soubojové šavli:
 Dragoon Sabre Pardubice
 
-Pravidla: s právem útoku  
-Šavle: 730 g - 830 g  
-Datum: 21. 9. 2024  
+Pravidla: s&nbsp;právem útoku  
+Šavle: 730&nbsp;g - 830&nbsp;g  
+Datum: 21.&nbsp;9.&nbsp;2024  
 Místo: Sokolovna Pardubičky, Bokova 364, Pardubice  
-Kontakt: +420 774 132 511  
+Kontakt: +420&nbsp;774&nbsp;132&nbsp;511  
 E-mail: psaserm@gmail.com  
-Systém turnaje: skupiny po 5-7; 80-100% postupuje do eliminace  
-Startovné: 33 € (800,- Kč)
+Systém turnaje: skupiny po&nbsp;5-7; 80-100% postupuje do&nbsp;eliminace  
+Startovné: 33&nbsp;€ (800&nbsp;Kč)
 
 Účastníci turnaje jsou povinni pomoci jako postranní rozhodčí.
 
 Registrace: bude oznámena (max 42 účastníků)
 
-Poznámka: Každý účastník startuje na vlastní nebezpečí dle její(ho) zdravotního stavu.
+Poznámka: Každý účastník startuje na&nbsp;vlastní nebezpečí dle její(ho) zdravotního stavu.

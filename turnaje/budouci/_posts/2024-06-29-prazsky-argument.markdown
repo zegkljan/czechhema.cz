@@ -32,15 +32,15 @@ sidebar:
         * ženy
 ---
 
-III. ročník HEMA turnaje "Pražský argument 2024" proběhne 29.6.2024 opět v hale Jedenáctka.
+III.&nbsp;ročník HEMA turnaje "Pražský argument 2024" proběhne 29.6.2024 opět v&nbsp;hale Jedenáctka.
 
 Kategorie: dlouhý meč open, dlouhý meč ženy
 
 Startovné: 1000,- Kč
 
-Zahájení registrace: 1.4.2024 v 17:00
+Zahájení registrace: 1.4.2024 v&nbsp;17:00
 
 ### Pravidla turnaje
 Kompletní pravidla budou doplněna, ale zařadíme a zpřísníme.
-* souzásah mělkého a hlubokého terče v prvním tempu platí jen hluboký zásah
+* souzásah mělkého a hlubokého terče v&nbsp;prvním tempu platí jen hluboký zásah
 * plácání a oťukávání se pokusíme eliminovat
