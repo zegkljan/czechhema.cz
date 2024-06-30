@@ -8,7 +8,7 @@ tags:
   - šavle
   - open
 header:
-  teaser: https://scontent.fprg4-1.fna.fbcdn.net/v/t39.30808-6/437856926_940735601394557_1699038349995135293_n.jpg?_nc_ohc=5JhfF4VoQTIQ7kNvgGQhW7B&_nc_ht=scontent.fprg4-1.fna&oh=00_AYBasfFYJMFKNZLP_iY3vB2iWFNPBxUY0hI8LT4KGQHWIw&oe=667C98B8
+  teaser: https://scontent.fprg4-1.fna.fbcdn.net/v/t39.30808-6/437856926_940735601394557_1699038349995135293_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eyUk81RPWnAQ7kNvgGbeGgo&_nc_ht=scontent.fprg4-1.fna&oh=00_AYBbhZ8JbCIt6nPMa5-obJKzlNW-5-NmfmmN5s6jQHikBw&oe=6686EC78
 author_profile: true
 author:
   name: "Základní údaje"

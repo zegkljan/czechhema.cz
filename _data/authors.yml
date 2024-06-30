@@ -193,7 +193,7 @@ rsk:
       url: *home
 sermirna-luka:
   name     : "Šermírna Luka"
-  avatar   : #"/assets/images/club-logos/digladior.jpg"
+  avatar   : "/assets/images/club-logos/sermirna-luka.jpg"
   bio      : ""
   location : "Luka nad Jihlavou"
   home     : &home "/kluby/sermirna-luka"
