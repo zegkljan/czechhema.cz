@@ -2,19 +2,19 @@
 title:  "Pražský argument 2024"
 date:   "2024-06-30"
 ---
-V sobotu 29.6. proběhl v Praze turnaj Pražský argument organizovaný klubem [Poslední Argument](/kluby/posledni-argument).
-Soutěžilo se v dlouhém meči v kategoriích ženy a open, výsledky si můžete přečíst níže.
+V&nbsp;sobotu 29.6. proběhl v&nbsp;Praze turnaj Pražský argument organizovaný klubem [Poslední Argument](/kluby/posledni-argument).
+Soutěžilo se v&nbsp;dlouhém meči v&nbsp;kategoriích ženy a open, výsledky si můžete přečíst níže.
 
-Gratulujeme všem šermířům k jejich výkonům a organizátorovi ke zvládnutému turnaji!
+Gratulujeme všem šermířům k&nbsp;jejich výkonům a organizátorům ke&nbsp;zvládnutému turnaji!
 
-Výsledky zatím nejsou započítány do žebříčku.
-Stane se tak naráz s výsledky [turnaje v Drážďanech](/novinky/uspech-v-drazdanech), až dorazí.
+Výsledky zatím nejsou započítány do&nbsp;žebříčku.
+Stane se tak naráz s&nbsp;výsledky [turnaje v Drážďanech](/novinky/uspech-v-drazdanech), až dorazí.
 {: .notice--info}
 
 ## Ženy
 
 Této kategorie se zúčastnilo 6 šermířek.
-Zlatou medaili získala **Klára Burešová** z [Dobrovolného šermu](/kluby/dobrovolny-serm), stříbrnou medaili **Petra Rubešová** z Cech Terra de Selinan ze slovenské Žiliny, bronzovou medaili **Adéla Wurstová** z [PSA](/kluby/psa).
+Zlatou medaili získala **Klára Burešová** z&nbsp;[Dobrovolného šermu](/kluby/dobrovolny-serm), stříbrnou medaili **Petra Rubešová** z&nbsp;Cech Terra de&nbsp;Selinan ze&nbsp;slovenské Žiliny, bronzovou medaili **Adéla Wurstová** z&nbsp;[PSA](/kluby/psa).
 Celkové pořadí:
 
 | 1 | Klára Burešová |
@@ -24,12 +24,12 @@ Celkové pořadí:
 | 5 | Ekaterina Gladkova |
 | 6 | Markéta Petráková |
 
-Detailní výsledky jsou k dispozici zde: [https://system.onlyfence.eu/public/106](https://system.onlyfence.eu/public/106)
+Detailní výsledky jsou k&nbsp;dispozici zde: [https://system.onlyfence.eu/public/106](https://system.onlyfence.eu/public/106)
 
 ## Open
 
 Této kategorie se zůčastnilo 52 šermířů.
-Zlatou medaili získal **Miroslav Medviď** z Košického šermiarského cechu ze slovenských Košic, stříbrnou medaili **Martin Vrábeľ** z [Rotyky](/kluby/rotyka), bronzovou medaili **Nicolas Petritzky** z Henger SV z německého Postbauer-Heng.
+Zlatou medaili získal **Miroslav Medviď** z&nbsp;Košického šermiarského cechu ze&nbsp;slovenských Košic, stříbrnou medaili **Martin Vrábeľ** z&nbsp;[Rotyky](/kluby/rotyka), bronzovou medaili **Nicolas Petritzky** z&nbsp;Henger SV z&nbsp;německého Postbauer-Heng.
 Celkové pořadí:
 
 | 1 | Miroslav Medviď |
@@ -85,4 +85,4 @@ Celkové pořadí:
 | 51 | Adéla Wurstová |
 | 52 | Tomáš Klapka |
 
-Detailní výsledky jsou k dispozici zde: [https://system.onlyfence.eu/public/105](https://system.onlyfence.eu/public/105)
+Detailní výsledky jsou k&nbsp;dispozici zde: [https://system.onlyfence.eu/public/105](https://system.onlyfence.eu/public/105)
