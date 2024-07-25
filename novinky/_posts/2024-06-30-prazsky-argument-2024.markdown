@@ -1,6 +1,9 @@
 ---
 title:  "Pražský argument 2024"
 date:   "2024-06-30"
+tags:
+  - turnaj
+  - výsledky
 ---
 V&nbsp;sobotu 29.6. proběhl v&nbsp;Praze turnaj Pražský argument organizovaný klubem [Poslední Argument](/kluby/posledni-argument).
 Soutěžilo se v&nbsp;dlouhém meči v&nbsp;kategoriích ženy a open, výsledky si můžete přečíst níže.

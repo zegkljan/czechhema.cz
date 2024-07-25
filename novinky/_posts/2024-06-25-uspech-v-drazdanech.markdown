@@ -1,6 +1,9 @@
 ---
 title:  "Úspěch českých šermířů v Drážďanech!"
 date:   "2024-06-25"
+tags:
+  - turnaj
+  - výsledky
 ---
 O&nbsp;víkendu 22.-23.6.2024 proběhl v&nbsp;Drážďanech v&nbsp;Německu turnaj [3. Dresdner HEMA-Cup](https://www.facebook.com/events/3186069814856528).
 Naši šermíři soutěžili v&nbsp;kategoriích dlouhý meč muži, rapír a dýka a meč a štítek.

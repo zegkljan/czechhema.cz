@@ -1,6 +1,8 @@
 ---
 title:  "Stránky české HEMA scény spuštěny!"
 date:   "2024-06-24"
+tags:
+  - stránky
 ---
 Vítejte na&nbsp;nových stránkách české HEMA scény!
 

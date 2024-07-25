@@ -1,6 +1,8 @@
 ---
 title:  "Nastavení žebříčku pro sezónu 2024/2025"
 date:   "2024-06-26"
+tags:
+  - žebříček
 ---
 Představujeme vám nastavení českého HEMA žebříčku pro&nbsp;sezónu 2024/2025.
 
