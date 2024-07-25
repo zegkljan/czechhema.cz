@@ -26,7 +26,7 @@ Vrcholy žebříčků v dotčených divizích a kategoriích vypadají takto:
 | Příčka | Jméno | Klub | Počet bodů |
 |--------|-------|------|------------|
 | 1. | Klára Burešová | [Dobrovolný Šerm](/kluby/dobrovolny-serm) | 11 |
-| 2. | Adla Wurstová | [PSA](/kluby/psa) | 6 |
+| 2. | Adéla Wurstová | [PSA](/kluby/psa) | 6 |
 | 3. | Ekaterina Gladkova | [HEMA Praha](/kluby/hema-praha) | 2 |
 | 4. | Markéta Petráková | [Poslední Argument](/kluby/posledni-argument) | 1 |
 
