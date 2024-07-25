@@ -47,7 +47,7 @@ Vrcholy žebříčků v dotčených divizích a kategoriích vypadají takto:
 | 4. | Roman Král | [Winden](/kluby/winden) | 4 |
 
 
-Úplný žebříček je k dispozici na [https://zebricek.czechhema.cz](zebricek.czechhema.cz).
+Úplný žebříček je k dispozici na [zebricek.czechhema.cz](https://zebricek.czechhema.cz).
 {: .notice--info}
 
 Případná chybějící či chybná data, stejně tak jako technické problémy, neváhejte ohlásit jakýmkoliv způsobem.
