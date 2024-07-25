@@ -1,6 +1,6 @@
 ---
 title:  "První záznam v žebříčku pro sezónu 2024/2025"
-date:   "2024-06-30"
+date:   "2024-07-25"
 tags:
   - žebříček
 ---
@@ -42,9 +42,8 @@ Vrcholy žebříčků v dotčených divizích a kategoriích vypadají takto:
 | Příčka | Jméno | Klub | Počet bodů |
 |--------|-------|------|------------|
 | 1. | Roman Vítek | [Škola šermu Paridon](/kluby/paridon) | 19 |
-| 2. | Kamil Kazelle | [Škola šermu Paridon](/kluby/paridon) | 16 |
-| 3. | Petr Ospálek | [Winden](/kluby/winden) | 7 |
-| 4. | Roman Král | [Winden](/kluby/winden) | 4 |
+| 2. | Petr Ospálek | [Winden](/kluby/winden) | 7 |
+| 3. | Roman Král | [Winden](/kluby/winden) | 4 |
 
 
 Úplný žebříček je k dispozici na [zebricek.czechhema.cz](https://zebricek.czechhema.cz).
