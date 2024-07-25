@@ -234,3 +234,11 @@ tj-sokol-budejovice:
   home       : &home "/kluby/sokol-budejovice"
   facebook   : sermcb
   hemaratings: 446
+winden:
+  name       : "Winden - Zábřežský šermířský klub"
+  avatar     : "/assets/images/club-logos/winden.png"
+  bio        : ""
+  location   : "Zábřeh"
+  home       : &home "/kluby/winden"
+  facebook   : winden.zabreh
+  hemaratings: 1626

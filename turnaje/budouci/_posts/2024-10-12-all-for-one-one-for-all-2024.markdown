@@ -38,8 +38,7 @@ V&nbsp;první fázi turnaje se členové týmů utkají ve&nbsp;skupinách, podo
 Na&nbsp;základě výsledků skupin se sestaví týmový eliminační pavouk, ve&nbsp;kterém již budou soupeřit celé týmy, a to ve&nbsp;štafetovém formátu podobném tomu, který se používá ve&nbsp;sportovním šermu.
 
 Turnaj proběhne ve&nbsp;velké sportovní hale **TJ Pankrác v Praze 12.10.2024**.
-Další informace zveřejníme později.
 
-Sledujte také Facebookovou událost k&nbsp;turnaji: [All For One - One For All 2024 - team HEMA tournament](https://www.facebook.com/events/1514311122487420).
+Podrobnosti naleznete na [stránkách turnaje](https://krkavci.cz/tournament/afo-ofa-2024) či u [Facebookové události](https://www.facebook.com/events/1514311122487420).
 
 V&nbsp;případě dotazů nás neváhejte kontaktovat na&nbsp;e-mailu [turnaj@krkavci.cz](mailto:turnaj@krkavci.cz) či na&nbsp;našem Facebooku: [SHŠ Krkavci, žoldnéřská kompanie](https://www.facebook.com/krkavci).
