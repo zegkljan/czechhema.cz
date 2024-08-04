@@ -1,6 +1,6 @@
 ---
 title:  "Nultý ročník WSM v Brně - R&D, LS (5. kolo)"
-date:   2024-08-11
+date:   2024-09-29
 last_modified_at: now
 tags:
   - turnaj
