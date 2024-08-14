@@ -12,6 +12,19 @@ aka:
     - label: "skolasermu.cz"
       icon: "fas fa-fw fa-link"
       url: *home
+destreza-brno:
+  name       : "Destreza Brno"
+  avatar     : "/assets/images/club-logos/destreza-brno.jpg"
+  bio        : ""
+  location   : "Brno"
+  home       : &home "http://destreza.cz"
+  facebook   : profile.php?id=100090700647129
+  email      : hutnik.va@seznam.cz
+  hemaratings: 1636
+  links:
+    - label: "destreza.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
 digladior:
   name       : "Digladior"
   avatar     : "/assets/images/club-logos/digladior.jpg"
