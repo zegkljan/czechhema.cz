@@ -23,6 +23,9 @@ Přispěvatele (kteří s&nbsp;tím budou souhlasit) rád uvedu na&nbsp;této st
 Prosím podepište se, resp. napište, jak tu chcete být uvedeni, nebo naopak napište, že zde uvedeni být nechcete.
 {: .type-size-6}
 
-<!-- ## Pravidelní přispěvatelé
+<!-- ## Pravidelní přispěvatelé -->
 
-## Jednorázově podpořili -->
+<!-- ## Jednorázově podpořili -->
+## Na provoz přispěli
+
+* [Poslední Arugment](/kluby/posledni-argument)
