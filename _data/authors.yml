@@ -255,3 +255,10 @@ winden:
   home       : &home "/kluby/winden"
   facebook   : winden.zabreh
   hemaratings: 1626
+
+# authors
+kamil-hozak:
+  name             : "Kamil Hozák"
+  avatar           : "/assets/images/authors/kamil_hozak.jpg"
+  location         : "Pardubice"
+  facebook         : kamil.hozak

@@ -29,3 +29,4 @@ Prosím podepište se, resp. napište, jak tu chcete být uvedeni, nebo naopak n
 ## Na provoz přispěli
 
 * [Poslední Arugment](/kluby/posledni-argument)
+* [AKA](/kluby/aka)
