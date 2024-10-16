@@ -71,6 +71,11 @@ fechteri:
     - label: "fechteri.cz"
       icon: "fas fa-fw fa-link"
       url: *home
+ffg-ostrava:
+  name       : "FFG Ostrava"
+  avatar     : "/assets/images/club-logos/ffg-ostrava.jpg"
+  location   : "Ostrava"
+  facebook   : FreiFechter.Ostrava
 helops:
   name       : "HELOPS"
   avatar     : "/assets/images/club-logos/helops.png"
