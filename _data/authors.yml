@@ -104,6 +104,19 @@ hema-praha:
     - label: "hema-praha.cz"
       icon: "fas fa-fw fa-link"
       url: *home
+lanistae:
+  name       : "Lanistae liberi Pragenses"
+  avatar     : "/assets/images/club-logos/lanistae.png"
+  bio        : "Sdružení Lanistae Liberi Pragenses usiluje o obnovu původních evropských bojových umění."
+  location   : "Praha"
+  home       : &home "https://www.lanistae-liberi.cz"
+  facebook   : LanistaePragenses
+  hemaratings: 1097
+  email      : lanistae.liberi@gmail.com
+  links:
+    - label: "lanistae-liberi.cz"
+      icon: "fas fa-fw fa-link"
+      url: *home
 manus-regis:
   name       : "Manus Regis"
   avatar     : "/assets/images/club-logos/manus-regis.png"
