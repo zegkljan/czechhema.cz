@@ -17,7 +17,7 @@ Vrcholy žebříčků v dotčených divizích a kategoriích vypadají takto:
 |--------|-------|------|------------|
 | 1. (1.) | Martin Vrábel | [Rotyka](/kluby/rotyka) | 326 (223) |
 | 2. (7.) | Pavel Dostál | [PSA](/kluby/psa) | 313 (110) |
-| 3. (-) | Zdeněk Brýdl | [HEMA Praha](/kluby/brnensti-fechteri) | 299 (-) |
+| 3. (-) | Zdeněk Brýdl | [Brněnští Fechteři](/kluby/brnensti-fechteri) | 299 (-) |
 | 4. (5.) | Petr Paščenko | [Duelanti od sv. Rocha](/kluby/duelanti) | 291 (117) |
 | 5. (15.) | Jan Žegklitz | [SHŠ Krkavci](/kluby/shs-krkavci) | 252 (52) |
 
