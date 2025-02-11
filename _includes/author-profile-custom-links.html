@@ -13,3 +13,21 @@
     </a>
   </li>
 {% endif %}
+
+{% if author.mastodon %}
+  {% assign parts = author.mastodon | strip | split: "@" %}
+  <li>
+    <a href="https://{{ parts | last }}/@{{ parts | first }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].mastodon_label | default: "Mastodon" }}</span>
+    </a>
+  </li>
+{% endif %}
+
+{% if author.pixelfed %}
+  {% assign parts = author.pixelfed | strip | split: "@" %}
+  <li>
+    <a href="https://{{ parts | last }}/{{ parts | first }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="icon-pixelfed" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].pixelfed_label | default: "Pixelfed" }}</span>
+    </a>
+  </li>
+{% endif %}
