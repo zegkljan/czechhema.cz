@@ -58,7 +58,7 @@ Pozn.: U žen začíná hrát roli limit na počet započítaných turnajů, kte
 |--------|-------|------|------------|
 | 1. (-) ⚠️ změna leadera! | Martin Vrábel | [Rotyka](/kluby/rotyka) | 69 (-) |
 | 2. (-) | Ondřej Malina | [RŠK](/kluby/rsk) | 39 (-) |
-| 3. (-) | Jan Žegklitz | [SHŠ Krkavci](/kluby/shs-krkavci) | 30 (58) |
+| 3. (-) | Jan Žegklitz | [SHŠ Krkavci](/kluby/shs-krkavci) | 30 (-) |
 | 4. (-) | Marián Országh | [Paridon](/kluby/paridon) | 26 (-) |
 | 5. (-) | Petr Paščenko | [Duelanti od sv. Rocha](/kluby/duelanti) | 25 (-) |
 
