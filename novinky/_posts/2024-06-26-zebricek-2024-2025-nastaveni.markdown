@@ -11,7 +11,6 @@ Představujeme vám nastavení českého HEMA žebříčku pro&nbsp;sezónu 2024
 | Dlouhý meč muži/open | 7 |
 | Dlouhý meč ženy | 4 |
 | Meč a štítek muži/open | 5 |
-| Meč a štítek muži/open | 5 |
 | Šavle muži/open | 4 |
 | Rapír a dýka muži/open | 5 |
 | Všechny ostatní kombinace divizí a kategorií | 3 |
