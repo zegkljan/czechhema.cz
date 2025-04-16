@@ -1,3 +1,18 @@
+{% if author.club %}
+  {% assign club = site.clubs | where: 'author', author.club | first %}
+  <li>
+    <a href="{{ club.url }}">
+      <i class="fa-solid fa-users" aria-hidden="true"></i><span class="label">
+        {% if author.club-short %}
+          {{ author.club-short }}
+        {% else %}
+          {{ club.title }}
+        {% endif %}
+      </span>
+    </a>
+  </li>
+{% endif %}
+
 {% if author.tiktok %}
   <li>
     <a href="https://tiktok.com//{{ author.tiktok }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">

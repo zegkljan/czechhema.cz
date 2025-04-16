@@ -280,3 +280,12 @@ kamil-hozak:
   avatar           : "/assets/images/authors/kamil_hozak.jpg"
   location         : "Pardubice"
   facebook         : kamil.hozak
+  club             : psa
+  club-short       : PSA
+jindrich-tichy:
+  name             : "Jindřich Tichý"
+  avatar           : "/assets/images/authors/jindrich_tichy.jpg"
+  location         : "Praha"
+  facebook         : jindrich.tichy
+  club             : posledni-argument
+  club-short       : Poslední Argument
